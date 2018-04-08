@@ -1,0 +1,40 @@
+apply plugin: 'scala'
+
+dependencies {
+    compile('io.gatling.highcharts:gatling-charts-highcharts:2.3.0')
+}
+
+def logbackGatlingConfig() {
+    return sourceSets.main.resources.find { it.name == 'logback-gatling.xml'}
+}
+
+task reactiveDelay(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+
+    systemProperties System.getProperties()
+
+    jvmArgs = [
+            "-Dlogback.configurationFile=${logbackGatlingConfig()}"
+    ]
+    main = 'io.gatling.app.Gatling'
+    args = [
+
+            '--simulation', "ReactiveDelaySimulation",
+            '--results-folder', "${buildDir}/gatling-results",
+    ]
+}
+
+task syncDelay(type: JavaExec) {
+    classpath = sourceSets.main.runtimeClasspath
+
+    systemProperties System.getProperties()
+    jvmArgs = [
+            "-Dlogback.configurationFile=${logbackGatlingConfig()}"
+    ]
+    main = 'io.gatling.app.Gatling'
+    args = [
+
+            '--simulation', "BlockingDelaySimulation",
+            '--results-folder', "${buildDir}/gatling-results",
+    ]
+}

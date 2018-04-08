@@ -1,0 +1,2 @@
+rootProject.name = 'spring-boot-flux'
+include 'webservice', 'gatling-test'

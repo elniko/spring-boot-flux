@@ -1,0 +1,12 @@
+apply plugin: "idea"
+
+allprojects {
+    group= "tets.web-flux"
+    version = 1.0
+}
+
+subprojects {
+    repositories{
+        mavenCentral()
+    }
+}

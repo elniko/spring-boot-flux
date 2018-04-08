@@ -1,0 +1,142 @@
+[
+  {
+    "id": "5a75cb690526b0095bde354a",
+    "firstName": "Marva",
+    "lastName": "Gallagher",
+    "gender": "female",
+    "email": "marvagallagher@kiosk.com"
+  },
+  {
+    "id": "5a75cb69579df4a155ea28bf",
+    "firstName": "Beverly",
+    "lastName": "Cohen",
+    "gender": "female",
+    "email": "beverlycohen@kiosk.com"
+  },
+  {
+    "id": "5a75cb69689cf2db3dde0006",
+    "firstName": "Craft",
+    "lastName": "Rivas",
+    "gender": "male",
+    "email": "craftrivas@kiosk.com"
+  },
+  {
+    "id": "5a75cb69a2072f50245c7af8",
+    "firstName": "Charity",
+    "lastName": "Patel",
+    "gender": "female",
+    "email": "charitypatel@kiosk.com"
+  },
+  {
+    "id": "5a75cb69d4c24ea88d2f2541",
+    "firstName": "Sherri",
+    "lastName": "Beard",
+    "gender": "female",
+    "email": "sherribeard@kiosk.com"
+  },
+  {
+    "id": "5a75cb694ffc3387ee3baa6a",
+    "firstName": "Heath",
+    "lastName": "Carey",
+    "gender": "male",
+    "email": "heathcarey@kiosk.com"
+  },
+  {
+    "id": "5a75cb690d7993fc39f5737c",
+    "firstName": "Sara",
+    "lastName": "Sweeney",
+    "gender": "female",
+    "email": "sarasweeney@kiosk.com"
+  },
+  {
+    "id": "5a75cb697b610c93f62bad6e",
+    "firstName": "Kristina",
+    "lastName": "Flowers",
+    "gender": "female",
+    "email": "kristinaflowers@kiosk.com"
+  },
+  {
+    "id": "5a75cb6936ef881383ff2a0e",
+    "firstName": "Sawyer",
+    "lastName": "Burris",
+    "gender": "male",
+    "email": "sawyerburris@kiosk.com"
+  },
+  {
+    "id": "5a75cb694440f5c2e07a0320",
+    "firstName": "Weber",
+    "lastName": "Romero",
+    "gender": "male",
+    "email": "weberromero@kiosk.com"
+  },
+  {
+    "id": "5a75cb6970268c8be79b5cdd",
+    "firstName": "Mcfadden",
+    "lastName": "Golden",
+    "gender": "male",
+    "email": "mcfaddengolden@kiosk.com"
+  },
+  {
+    "id": "5a75cb69be6d2c7a748b1f2d",
+    "firstName": "Colon",
+    "lastName": "Black",
+    "gender": "male",
+    "email": "colonblack@kiosk.com"
+  },
+  {
+    "id": "5a75cb69c1086e721acabb34",
+    "firstName": "Juliet",
+    "lastName": "Bridges",
+    "gender": "female",
+    "email": "julietbridges@kiosk.com"
+  },
+  {
+    "id": "5a75cb69eb86254442641292",
+    "firstName": "Jolene",
+    "lastName": "Roach",
+    "gender": "female",
+    "email": "joleneroach@kiosk.com"
+  },
+  {
+    "id": "5a75cb69861422aa265836d4",
+    "firstName": "Cash",
+    "lastName": "Joyce",
+    "gender": "male",
+    "email": "cashjoyce@kiosk.com"
+  },
+  {
+    "id": "5a75cb690f8d43f84b907ff1",
+    "firstName": "Juanita",
+    "lastName": "Mcfarland",
+    "gender": "female",
+    "email": "juanitamcfarland@kiosk.com"
+  },
+  {
+    "id": "5a75cb6962a03110c0757b7c",
+    "firstName": "Butler",
+    "lastName": "Donaldson",
+    "gender": "male",
+    "email": "butlerdonaldson@kiosk.com"
+  },
+  {
+    "id": "5a75cb691ce89657d8f33a4c",
+    "firstName": "Browning",
+    "lastName": "Alvarado",
+    "gender": "male",
+    "email": "browningalvarado@kiosk.com"
+  },
+  {
+    "id": "5a75cb6953d79303afad8cca",
+    "firstName": "Erna",
+    "lastName": "Buckner",
+    "gender": "female",
+    "email": "ernabuckner@kiosk.com"
+  },
+  {
+    "id": "5a75cb69e3a2ab3867969d76",
+    "firstName": "Monica",
+    "lastName": "Mclaughlin",
+    "gender": "female",
+    "email": "monicamclaughlin@kiosk.com"
+  }
+]
